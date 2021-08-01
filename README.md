@@ -2,6 +2,7 @@
 Mario-like game using Godot
 
 This is my first try at creating games ! I used the game engine Godot, and followed a GDQuest Youtube tutorial (link below).
+All the assets are given with the tutorial.
 
 Godot uses a language that is not different from Python : GDScript
 
